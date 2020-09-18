@@ -1,8 +1,8 @@
-### Hi there 👋
+# Gabriel Jestin/@jestin-g
 
 
 ### 📋 About
-I'm Gabriel Jestin, I'm a software engineer student at Université Paris-Nanterre.
+I'm Gabriel, software engineer student at Université Paris-Nanterre.
 -  **Learning :** Full-Stack Development :zap: | DevOps :fire:	
 -  **Hobbies :** Sport & Music :headphones:
 -  **Localization :** Paris, France
