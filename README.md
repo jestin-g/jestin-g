@@ -5,7 +5,7 @@
 
 ### 📋 About
 I'm Gabriel, software engineer student at Université Paris-Nanterre.
--  **Learning :** Full-Stack Development :zap: | DevOps :fire:	
+-  **Learning :** Full-Stack Development | DevOps
 -  **Hobbies :** Sport & Music :headphones:
 -  **Localisation :** Paris/Caen, France
 
