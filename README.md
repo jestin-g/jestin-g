@@ -4,10 +4,10 @@
 [![Mail Badge](https://img.shields.io/badge/-jestingabriel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jestingabriel@gmail.com)](mailto:jestingabriel@gmail.com)
 
 ### 📋 About
-I'm Gabriel, software engineer student at Université Paris-Nanterre.
+I'm Gabriel, software engineer, graduated from Université Paris-Nanterre.
 -  **Learning :** Full-Stack Development | DevOps
 -  **Hobbies :** Sport & Music :headphones:
--  **Localisation :** Paris/Caen, France
+-  **Localisation :** Paris, France
 
 
 ### 🛠 &nbsp;Tech Stack
