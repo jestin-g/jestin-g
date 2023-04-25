@@ -5,7 +5,7 @@
 
 ### 📋 About
 I'm Gabriel, software engineer, graduated from Université Paris-Nanterre.
--  **Learning :** Full-Stack Development | DevOps
+-  **Learning :** Ruby on Rails 💎
 -  **Hobbies :** Sport & Music :headphones:
 -  **Localisation :** Paris, France
 
